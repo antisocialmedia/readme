@@ -8,7 +8,7 @@ antisocial is a secure, private, ethical, end-to-end-encrypted social media plat
 * Secure, private, and truly ethical social media with less of the bad features
 
 ## Planned release
-We plan on a release by January 2022.
+Release date is currently uncertain, but it is hoped to be done by January 2022.
 
 ## Licensing
 antisocial's source code will be made public around January 2022 under the AGPLv3.
